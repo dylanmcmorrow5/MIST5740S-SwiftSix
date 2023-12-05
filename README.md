@@ -5,7 +5,7 @@
 2. Pearson Kurka
 3. Dylan McMorrow
 4. Ethan Stoltz
-5. Michael Camerson
+5. Michael Cameron
 6. Adam Herzog
 
 ## Project Binder:
