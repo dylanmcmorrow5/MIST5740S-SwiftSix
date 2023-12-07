@@ -11,7 +11,7 @@
 ## Project Binder:
 Attached below is our Project Binder, which contains all of the revelant documentation we recorded throughout the semester.
 
-[Swift Six Binder.pdf](https://github.com/dylanmcmorrow5/MIST5740S-SwiftSix/files/13605887/Swift.Six.Binder.pdf)
+[Swift Six Binder.pdf](https://github.com/dylanmcmorrow5/MIST5740S-SwiftSix/files/13605945/Swift.Six.Binder.pdf)
 
 
 ## Work Breakdown Structure:
