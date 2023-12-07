@@ -9,7 +9,8 @@
 6. Adam Herzog
 
 ## Project Binder:
-Attached below is our Project Binder, which contains all of the revelant documentation we recorded throughout the semester. 
+Attached below is our Project Binder, which contains all of the revelant documentation we recorded throughout the semester.
+
 [Swift Six Binder.pdf](https://github.com/dylanmcmorrow5/MIST5740S-SwiftSix/files/13605887/Swift.Six.Binder.pdf)
 
 
