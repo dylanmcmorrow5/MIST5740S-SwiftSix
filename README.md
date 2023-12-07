@@ -9,7 +9,7 @@
 6. Adam Herzog
 
 ## Project Binder:
-Attached below if the our Project Binder, which contains all of the revelant documentation we recorded throughout the semester. 
+Attached below is our Project Binder, which contains all of the revelant documentation we recorded throughout the semester. 
 ## Work Breakdown Structure:
 Attached below is our Work Breakdown Structure that we used to log our progress throughout the semester.
 
