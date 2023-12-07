@@ -16,4 +16,4 @@ Attached below is our Work Breakdown Structure that we used to log our progress 
 [Swift 6 Work Breakdown Structure.xlsx](https://github.com/dylanmcmorrow5/MIST5740S-SwiftSix/files/13605254/Swift.6.Work.Breakdown.Structure.xlsx)
 
 ## Final Website Deliverable:
-
+Attached at the top of this repository is the HTML and CSS files that contain all of the website code. To view the code of each individual website page, click the folder titles "Cross County Website", then click on the subfolder "WEB-INF". Here you can access the corresponding code to each page. 
